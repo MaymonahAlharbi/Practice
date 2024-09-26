@@ -1,4 +1,6 @@
 {
     "employeeName":"Maymonah",
-    "employeeID":"01"
+    "employeeID":"01",
+    "jobTitle":"Software Engineer",
+    "JoinDate":"01-01-2024"
 }
